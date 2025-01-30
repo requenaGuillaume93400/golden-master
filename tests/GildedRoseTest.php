@@ -51,4 +51,10 @@ class GildedRoseTest extends TestCase
      * received et approved (received est généré a chaque test, approved ne bouge pas)
      * et si on a un echec, c'est qu'on a modifier le comportement du code, on a fait une erreur
      */
+
+
+    // Rappel commandes utiles
+    /**
+     * php vendor/bin/phpunit --coverage-html coverage tests/GildedRoseTest.php     
+     */
 }
